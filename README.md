@@ -43,7 +43,7 @@ In this awesome list, we have meticulously compiled a range of resources, includ
 - [llm_finetuning](https://github.com/taprosoft/llm_finetuning) : Convenient wrapper for fine-tuning and inference of Large Language Models (LLMs) with several quantization techniques (GTPQ, bitsandbytes). :star: 114
 
 ## Articles & Blogs
-
+- [Fine-Tune LLMs in 2024 with Hugging Face: TRL and Flash Attention](https://www.philschmid.de/fine-tune-llms-in-2024-with-trl) 🤗: This blog post provides a comprehensive guide to fine-tune LLMs (e.g., Llama 2), using hugging face trl and flash attention on consumer size GPUs (24GB).
 - [Complete Guide to LLM Fine Tuning for Beginners](https://medium.com/@mayaakim/complete-guide-to-llm-fine-tuning-for-beginners-c2c38a3252be) 📚: A comprehensive guide that explains the process of fine-tuning a pre-trained model for new tasks, covering key concepts and providing a concrete example.
 - [Fine-Tuning Large Language Models (LLMs)](https://towardsdatascience.com/fine-tuning-large-language-models-llms-23473d763b91) 📖: This blog post presents an overview of fine-tuning pre-trained LLMs, discussing important concepts and providing a practical example with Python code.
 - [Creating a Domain Expert LLM: A Guide to Fine-Tuning](https://hackernoon.com/creating-a-domain-expert-llm-a-guide-to-fine-tuning) 📝: An article that dives into the concept of fine-tuning using OpenAI's API, showcasing an example of fine-tuning a large language model for understanding the plot of a Handel opera.
