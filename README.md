@@ -132,7 +132,7 @@ In this awesome list, we have meticulously compiled a range of resources, includ
 - [Fine-tuning language models to find agreement among humans with](https://arxiv.org/abs/2211.15006): The paper explores the fine-tuning of a large LLM to generate consensus statements that maximize approval for a group of people with diverse opinions.
 
 ## Videos
-
+- [Intro to Large Language Models by Andrej Karpathy](https://youtu.be/zjkBMFhNj_g?si=5S9tI-G2AD7xUuhf): This is a 1 hour introduction to Large Language Models. What they are, where they are headed, comparisons and analogies to present-day operating systems, and some of the security-related challenges of this new computing paradigm.
 - [Fine-tuning Llama 2 on Your Own Dataset | Train an LLM for Your ...](https://www.youtube.com/watch?v=MDA3LUKNl1E): Learn how to fine-tune Llama 2 model on a custom dataset.
 - [Fine-tuning LLM with QLoRA on Single GPU: Training Falcon-7b on ...](https://www.youtube.com/watch?v=DcBC4yGHV4Q): This video demonstrates the fine-tuning process of the Falcon 7b LLM using QLoRA.
 - [Fine-tuning an LLM using PEFT | Introduction to Large Language ...](https://www.youtube.com/watch?v=6SpZkwWuldU): Discover how to fine-tune an LLM using PEFT, a technique that requires fewer resources.
