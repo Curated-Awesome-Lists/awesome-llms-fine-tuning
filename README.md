@@ -131,6 +131,7 @@ In this awesome list, we have meticulously compiled a range of resources, includ
 - [Federated Fine-tuning of Billion-Sized Language Models across](https://arxiv.org/abs/2308.13894): This work introduces FwdLLM, a federated learning protocol designed to enhance the efficiency of fine-tuning large LLMs on mobile devices, improving memory and time efficiency.
 - [A Comprehensive Overview of Large Language Models](https://arxiv.org/pdf/2307.06435): This paper provides an overview of the development and applications of large language models and their transfer learning capabilities.
 - [Fine-tuning language models to find agreement among humans with](https://arxiv.org/abs/2211.15006): The paper explores the fine-tuning of a large LLM to generate consensus statements that maximize approval for a group of people with diverse opinions.
+- [LLMs Meet Finance: Fine-Tuning Foundation Models for the Open FinLLM Leaderboard](https://arxiv.org/abs/2504.13125): Systematic study of fine-tuning Qwen2.5 and DeepSeek-R1 for financial NLP using SFT, DPO, and RL with synthetic Chain-of-Thought data, reporting cross-task transfer effects and a data scaling exponent consistent with theoretical predictions.
 
 ## Videos
 - [Intro to Large Language Models by Andrej Karpathy](https://youtu.be/zjkBMFhNj_g?si=5S9tI-G2AD7xUuhf): This is a 1 hour introduction to Large Language Models. What they are, where they are headed, comparisons and analogies to present-day operating systems, and some of the security-related challenges of this new computing paradigm.
