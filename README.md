@@ -41,6 +41,7 @@ In this awesome list, we have meticulously compiled a range of resources, includ
 - [llm_qlora](https://github.com/georgesung/llm_qlora) : Fine-tuning LLMs using QLoRA. :star: 136
 - [awesome-llm-human-preference-datasets](https://github.com/glgh/awesome-llm-human-preference-datasets) : A curated list of Human Preference Datasets for LLM fine-tuning, RLHF, and eval. :star: 124
 - [llm_finetuning](https://github.com/taprosoft/llm_finetuning) : Convenient wrapper for fine-tuning and inference of Large Language Models (LLMs) with several quantization techniques (GTPQ, bitsandbytes). :star: 114
+- [PH Training](https://github.com/need-singularity/ph-training) : Uses Persistent Homology (topological data analysis) to monitor training dynamics and detect overfitting 2 epochs earlier than validation loss. Works as a drop-in addition to any PyTorch training loop.
 
 ## Articles & Blogs
 - [Fine-Tune LLMs in 2024 with Hugging Face: TRL and Flash Attention](https://www.philschmid.de/fine-tune-llms-in-2024-with-trl) 🤗: This blog post provides a comprehensive guide to fine-tune LLMs (e.g., Llama 2), using hugging face trl and flash attention on consumer size GPUs (24GB).
