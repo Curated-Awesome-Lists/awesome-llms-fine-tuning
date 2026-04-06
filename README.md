@@ -6,6 +6,7 @@ Large Language Models, trained on massive datasets, capture an extensive range o
 
 In this awesome list, we have meticulously compiled a range of resources, including tutorials, papers, tools, frameworks, and best practices, to aid you in your fine-tuning journey. Whether you are a seasoned practitioner looking to expand your expertise or a beginner eager to step into the world of LLMs, this repository is designed to provide valuable insights and guidelines to streamline your endeavors.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested system prompts for fine-tuning AI agent behavior in Claude Code multi-agent orchestration. MIT licensed.
 ## Table of Contents
 
 - [GitHub projects](#github-projects)
