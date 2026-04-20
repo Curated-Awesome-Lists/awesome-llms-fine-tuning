@@ -157,6 +157,8 @@ In this awesome list, we have meticulously compiled a range of resources, includ
 
 ## Tools & Software
 
+- [OneComp](https://github.com/FujitsuResearch/OneCompression) — Fujitsu PTQ pipeline with LoRA SFT post-process. [arXiv:2603.28845](https://arxiv.org/abs/2603.28845).
+
 - [LLaMA Efficient Tuning](https://sourceforge.net/projects/llama-efficient-tuning.mirror/) 🛠️: Easy-to-use LLM fine-tuning framework (LLaMA-2, BLOOM, Falcon).
 - [H2O LLM Studio](https://sourceforge.net/projects/h2o-llm-studio.mirror/) 🛠️: Framework and no-code GUI for fine-tuning LLMs.
 - [PEFT](https://sourceforge.net/projects/peft.mirror/) 🛠️: Parameter-Efficient Fine-Tuning (PEFT) methods for efficient adaptation of pre-trained language models to downstream applications.
