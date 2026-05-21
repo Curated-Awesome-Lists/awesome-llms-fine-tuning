@@ -42,6 +42,8 @@ In this awesome list, we have meticulously compiled a range of resources, includ
 - [awesome-llm-human-preference-datasets](https://github.com/glgh/awesome-llm-human-preference-datasets) : A curated list of Human Preference Datasets for LLM fine-tuning, RLHF, and eval. :star: 124
 - [llm_finetuning](https://github.com/taprosoft/llm_finetuning) : Convenient wrapper for fine-tuning and inference of Large Language Models (LLMs) with several quantization techniques (GTPQ, bitsandbytes). :star: 114
 
+- [AI Models Catalog](https://github.com/i-need-token/ai-models) - Structured YAML catalog of 4,587+ AI models across 95 providers with pricing, context windows, capabilities, and modalities for model selection before fine-tuning. Includes interactive catalog and SEO comparison pages. (0 stars)
+
 ## Articles & Blogs
 - [Fine-Tune LLMs in 2024 with Hugging Face: TRL and Flash Attention](https://www.philschmid.de/fine-tune-llms-in-2024-with-trl) 🤗: This blog post provides a comprehensive guide to fine-tune LLMs (e.g., Llama 2), using hugging face trl and flash attention on consumer size GPUs (24GB).
 - [Complete Guide to LLM Fine Tuning for Beginners](https://medium.com/@mayaakim/complete-guide-to-llm-fine-tuning-for-beginners-c2c38a3252be) 📚: A comprehensive guide that explains the process of fine-tuning a pre-trained model for new tasks, covering key concepts and providing a concrete example.
