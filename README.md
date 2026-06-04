@@ -20,6 +20,7 @@ In this awesome list, we have meticulously compiled a range of resources, includ
 - [Podcasts](#podcasts)
 
 ## GitHub projects
+- [openclaw-monitor](https://github.com/flik2002/openclaw-monitor) - Free open-source monitoring dashboard for OpenClaw AI agents — token usage, session tracking, 7-day trends, multi-model support.
 - [AutoTrain](https://github.com/huggingface/autotrain-advanced) - No code fine-tuning of LLMs and other machine learning tasks.
 - [LlamaIndex](https://github.com/run-llama/llama_index) 🦙: A data framework for your LLM applications. (23010 stars)
 - [Petals](https://github.com/bigscience-workshop/petals) 🌸: Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading. (7768 stars)
