@@ -157,6 +157,7 @@ In this awesome list, we have meticulously compiled a range of resources, includ
 
 ## Tools & Software
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments in agentic LLM fine-tuning workflows. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 - [LLaMA Efficient Tuning](https://sourceforge.net/projects/llama-efficient-tuning.mirror/) 🛠️: Easy-to-use LLM fine-tuning framework (LLaMA-2, BLOOM, Falcon).
 - [H2O LLM Studio](https://sourceforge.net/projects/h2o-llm-studio.mirror/) 🛠️: Framework and no-code GUI for fine-tuning LLMs.
 - [PEFT](https://sourceforge.net/projects/peft.mirror/) 🛠️: Parameter-Efficient Fine-Tuning (PEFT) methods for efficient adaptation of pre-trained language models to downstream applications.
