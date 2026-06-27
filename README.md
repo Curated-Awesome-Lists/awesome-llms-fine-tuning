@@ -26,6 +26,7 @@ In this awesome list, we have meticulously compiled a range of resources, includ
 - [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory): An easy-to-use LLM fine-tuning framework (LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, ChatGLM3). (5532 stars)
 - [lit-gpt](https://github.com/Lightning-AI/lit-gpt): Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed. (3469 stars)
 - [H2O LLM Studio](https://github.com/h2oai/h2o-llmstudio): A framework and no-code GUI for fine-tuning LLMs. Documentation: [https://h2oai.github.io/h2o-llmstudio/](https://h2oai.github.io/h2o-llmstudio/) (2880 stars)
+- [Tuning Engines](https://github.com/cerebrixos-org/tuningengines): Governed fine-tuning and inference control plane with request capture, eval and trace visibility, model and tool policies, and OpenAI-compatible runtime endpoints. (new)
 - [Phoenix](https://github.com/Arize-ai/phoenix): AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook. (1596 stars)
 - [LLM-Adapters](https://github.com/AGI-Edgerunners/LLM-Adapters): Code for the EMNLP 2023 Paper: "LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models". (769 stars)
 - [Platypus](https://github.com/arielnlee/Platypus): Code for fine-tuning Platypus fam LLMs using LoRA. (589 stars)
