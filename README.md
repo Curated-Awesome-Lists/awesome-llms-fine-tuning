@@ -20,6 +20,7 @@ In this awesome list, we have meticulously compiled a range of resources, includ
 - [Podcasts](#podcasts)
 
 ## GitHub projects
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source autonomous pentest engine (GPL-3.0): AD + Kubernetes + web, evidence trail on every finding, runs on local or hosted models.
 - [AutoTrain](https://github.com/huggingface/autotrain-advanced) - No code fine-tuning of LLMs and other machine learning tasks.
 - [LlamaIndex](https://github.com/run-llama/llama_index) 🦙: A data framework for your LLM applications. (23010 stars)
 - [Petals](https://github.com/bigscience-workshop/petals) 🌸: Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading. (7768 stars)
