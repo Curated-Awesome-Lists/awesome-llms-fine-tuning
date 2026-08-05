@@ -20,6 +20,10 @@ In this awesome list, we have meticulously compiled a range of resources, includ
 - [Podcasts](#podcasts)
 
 ## GitHub projects
+
+- [Prose](https://github.com/Bodya3101/prose) - A lightweight, visual JSONL dataset editor, format converter (ChatML, ShareGPT, Alpaca), and audit tool for LLM fine-tuning.
+- [AutoTrain](https://github.com/huggingface/autotrain-advanced) - No code fine-tuning of LLMs and other machine learning tasks.
+- [LlamaIndex](https://github.com/run-llama/llama_index) 🦙: A data framework for your LLM applications. (23010 stars)
 - [AutoTrain](https://github.com/huggingface/autotrain-advanced) - No code fine-tuning of LLMs and other machine learning tasks.
 - [LlamaIndex](https://github.com/run-llama/llama_index) 🦙: A data framework for your LLM applications. (23010 stars)
 - [Petals](https://github.com/bigscience-workshop/petals) 🌸: Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading. (7768 stars)
@@ -157,6 +161,8 @@ In this awesome list, we have meticulously compiled a range of resources, includ
 
 ## Tools & Software
 
+- [Prose](https://github.com/Bodya3101/prose) 🛠️: A free, offline visual dataset editor and format converter for LLM fine-tuning (ChatML, ShareGPT, Alpaca, Telegram exports).
+- [LLaMA Efficient Tuning](https://sourceforge.net/projects/llama-efficient-tuning.mirror/) 🛠️: Easy-to-use LLM fine-tuning framework (LLaMA-2, BLOOM, Falcon).
 - [LLaMA Efficient Tuning](https://sourceforge.net/projects/llama-efficient-tuning.mirror/) 🛠️: Easy-to-use LLM fine-tuning framework (LLaMA-2, BLOOM, Falcon).
 - [H2O LLM Studio](https://sourceforge.net/projects/h2o-llm-studio.mirror/) 🛠️: Framework and no-code GUI for fine-tuning LLMs.
 - [PEFT](https://sourceforge.net/projects/peft.mirror/) 🛠️: Parameter-Efficient Fine-Tuning (PEFT) methods for efficient adaptation of pre-trained language models to downstream applications.
