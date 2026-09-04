@@ -65,6 +65,7 @@ In this awesome list, we have meticulously compiled a range of resources, includ
 - [List of Open Sourced Fine-Tuned Large Language Models](https://sungkim11.medium.com/list-of-open-sourced-fine-tuned-large-language-models-llm-8d95a2e0dc76) - A curated list of open-sourced fine-tuned LLMs that can be run locally on your computer. 📋
 - [Practitioners guide to fine-tune LLMs for domain-specific use case](https://cismography.medium.com/practitioners-guide-to-fine-tune-llms-for-domain-specific-use-case-part-1-4561714d874f) - A guide covering key learnings and conclusions on fine-tuning LLMs for domain-specific use cases. 📝
 - [Finetune Llama 3.1 with a production stack on AWS, GCP or Azure](https://www.zenml.io/blog/how-to-finetune-llama-3-1-with-zenml) - A guide and tutorial on finetuning Llama 3.1 ([or Phi 3.5](https://www.zenml.io/blog/how-to-finetune-phi-3-5-with-zenml)) in a production setup designed for MLOps best practices. 📓
+- [**Measuring Agent Failure in Production**](https://loopandretry.surge.sh/posts/measuring-agent-failure-in-production/?ref=awesome-llm-finetuning) — Loop & Retry. Evaluating and monitoring fine-tuned agents in production.
 
 ## Online Courses
 
