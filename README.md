@@ -20,6 +20,7 @@ In this awesome list, we have meticulously compiled a range of resources, includ
 - [Podcasts](#podcasts)
 
 ## GitHub projects
+- [tinyforge](https://github.com/rajratangm/tinyforge): Fine-tune, evaluate and serve small LLMs on modest GPUs (8B on a 4 GB card via layer streaming), with eval gates that fail bad models, GGUF export and an OpenAI-compatible server.
 - [AutoTrain](https://github.com/huggingface/autotrain-advanced) - No code fine-tuning of LLMs and other machine learning tasks.
 - [LlamaIndex](https://github.com/run-llama/llama_index) 🦙: A data framework for your LLM applications. (23010 stars)
 - [Petals](https://github.com/bigscience-workshop/petals) 🌸: Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading. (7768 stars)
