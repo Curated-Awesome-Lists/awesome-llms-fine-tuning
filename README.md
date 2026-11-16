@@ -169,6 +169,7 @@ In this awesome list, we have meticulously compiled a range of resources, includ
 - [bert4torch](https://sourceforge.net/projects/bert4torch.mirror/): An elegant PyTorch implementation of transformers. Load various open-source large model weights for reasoning and fine-tuning. 🔥
 - [Alpaca.cpp](https://sourceforge.net/projects/alpaca-cpp.mirror/): Run a fast ChatGPT-like model locally on your device. A combination of the LLaMA foundation model and an open reproduction of Stanford Alpaca for instruction-tuned fine-tuning. 🦙
 - [promptfoo](https://sourceforge.net/projects/promptfoo.mirror/): Evaluate and compare LLM outputs, catch regressions, and improve prompts using automatic evaluations and representative user inputs. 📊
+- [Adaption AutoScientist](https://docs.adaptionlabs.ai/autoscientist/overview/): Automates the research loop behind model training and alignment. It optimizes the data and training recipe, trains a model with SFT or DPO, evaluates it, and repeats until it reaches the goal.
 
 ## Conferences & Events
 
